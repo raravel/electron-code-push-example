@@ -1,0 +1,14 @@
+{
+	"name": "electron-code-push-example",
+	"version": "1.0.0",
+	"description": "You can code push on electron!",
+	"scripts": {
+		"start:html5": "electron ./html5/background.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "raravel",
+	"license": "MIT",
+	"devDependencies": {
+		"electron": "^13.1.7"
+	}
+}
