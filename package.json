@@ -5,6 +5,7 @@
 	"scripts": {
 		"start:html5": "electron ./html5/background.js",
 		"start:react": "electron ./react/background.js",
+		"start:vue": "electron ./vue/background.js",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "raravel",
